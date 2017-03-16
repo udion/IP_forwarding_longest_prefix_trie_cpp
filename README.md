@@ -1,5 +1,5 @@
 # IP_forwarding_longest_prefix_trie_cpp
-This is an c++ implementation of routing of packets based on IP given a routing table, using trie data structure to make searching faster.
+This is a c++ implementation of routing of packets based on IP given a routing table, using trie data structure to make searching faster.
 The code has made use of STL and has used functions/features available on c++11 onwards hence to compile :
 ~~~
 g++ -std=c++11 router.cpp trie.cpp utils.cpp utils.h trie.h
